@@ -1,0 +1,19 @@
+div{
+    background-color: aquamarine;
+    margin:20px;
+    padding: 10px;
+}
+.blog{
+    font-size: larger;
+    color: brown;
+}
+#bd{
+    color: green;
+    border: 30px;
+}
+li{
+    background-color: darkcyan;
+    width: 50%;
+    color: black;
+
+}
