@@ -2,10 +2,12 @@ div{
     background-color: aquamarine;
     margin:20px;
     padding: 10px;
+    border: 10px solid green;
 }
 .blog{
     font-size: larger;
     color: brown;
+    /* border: 10px solid red; */
 }
 #bd{
     color: green;
@@ -15,5 +17,12 @@ li{
     background-color: darkcyan;
     width: 50%;
     color: black;
-
+}
+#first{
+     color: darkblue;
+     text-align: center;
+ 
+}
+span{
+    font-size: larger;
 }
